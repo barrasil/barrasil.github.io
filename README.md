@@ -44,7 +44,7 @@ internos que adoptes deben reflejarse en la política.
 
 Una vez la URL sea pública, añade un enlace permanente a ella dentro de la app;
 «Opciones de privacidad» gestiona consentimiento y no sustituye ese enlace.
-No se ha publicado ni validado el dominio desde estos archivos locales.
+El sitio se publicó y se verificó mediante HTTP sin autenticación el 31 de octubre de 2026.
 
 ## Fuentes
 
@@ -55,3 +55,14 @@ No se ha publicado ni validado el dominio desde estos archivos locales.
 - https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
 
 No requiere compilación, JavaScript, fuentes remotas ni instalación de dependencias.
+
+## Versión en inglés
+
+- Web: https://barrasil.github.io/en/
+- Aplicación: https://barrasil.github.io/en/iventionday/
+- Política: https://barrasil.github.io/en/iventionday/privacy.html
+
+Cada página incluye un enlace a su equivalente en el otro idioma. Las URLs originales
+en español y app-ads.txt se conservan. No hay redirección automática de idioma.
+La versión inglesa traduce la política española sin cambiar su alcance ni su fecha
+de revisión. Al actualizar la política, mantén ambas versiones sincronizadas.
