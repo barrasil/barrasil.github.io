@@ -30,7 +30,7 @@ Compara la línea de app-ads.txt con la que muestra tu AdMob antes de publicar.
 ## Alcance y comprobaciones pendientes
 
 El texto describe el código revisado: catálogo local, imágenes externas, compartir,
-AdMob y UMP; sin Firebase Analytics ni registro de usuarios. Revisa y actualiza la
+AdMob, UMP, Firebase Analytics, actualización del catálogo mediante ImageKit, tarjetas compartidas y lectura en voz alta; sin registro de usuarios, compras ni suscripciones. Revisa y actualiza la
 política si añades funciones o cambias proveedores. La denominación Barrasil Studio
 se identifica como nombre de desarrollador, no como sociedad.
 
@@ -66,3 +66,12 @@ Cada página incluye un enlace a su equivalente en el otro idioma. Las URLs orig
 en español y app-ads.txt se conservan. No hay redirección automática de idioma.
 La versión inglesa traduce la política española sin cambiar su alcance ni su fecha
 de revisión. Al actualizar la política, mantén ambas versiones sincronizadas.
+
+
+## Términos del Servicio
+
+- Español: https://barrasil.github.io/iventionday/terminos.html
+- Inglés: https://barrasil.github.io/en/iventionday/terms.html
+- Revisión: 5 de noviembre de 2026. Incluye identidad de persona física, gratuidad con publicidad, contenidos de terceros y derechos imperativos del consumidor.
+- Comprobar enlaces y acceso HTTPS sin autenticación después del despliegue.
+- Pendiente de revisión: base jurídica y preferencias de Analytics separadas de UMP; procedencia y licencias de imágenes sin metadatos en el catálogo. Los términos no subsanan estas cuestiones por sí solos.
