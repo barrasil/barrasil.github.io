@@ -1,77 +1,30 @@
-# Barrasil Studio · GitHub Pages
+# Barrasil Studio · iVentionDay
 
-Sitio estático preparado para la cuenta GitHub `barrasil`.
-Responsable: Carlos Molina Clemente. Contacto: carlos.barradev@gmail.com.
+Sitio estático en GitHub Pages. Responsable: Carlos Molina Clemente, persona física. Barrasil Studio es su nombre comercial.
 
-## Publicar
+## Idiomas
 
-1. En GitHub, crea (o revisa si ya existe) el repositorio **barrasil.github.io**.
-   Para usar GitHub Free, el repositorio debe ser público. No sobrescribas un
-   sitio existente: incorpora estos archivos conservando lo que hubiera.
-2. Sube el contenido de esta carpeta a la raíz del repositorio, conservando
-   `iventionday/`. No subas el proyecto Android, claves ni credenciales.
-3. En Settings → Pages, selecciona Deploy from a branch → main → /(root) → Save.
-4. Espera al despliegue y verifica las tres URLs siguientes en una ventana sin
-   iniciar sesión. No las añadas a AdMob hasta que estén publicadas y accesibles.
+- Español: https://barrasil.github.io/
+- English: https://barrasil.github.io/en/
+- Français: https://barrasil.github.io/fr/
+- Italiano: https://barrasil.github.io/it/
+- Català: https://barrasil.github.io/ca/
+- Galego: https://barrasil.github.io/gl/
+- Euskara: https://barrasil.github.io/eu/
+- Português (Brasil): https://barrasil.github.io/pt-BR/
+- Deutsch: https://barrasil.github.io/de/
+- 简体中文: https://barrasil.github.io/zh-Hans/
+- 日本語: https://barrasil.github.io/ja/
+- 한국어: https://barrasil.github.io/ko/
 
-## URLs tras publicar
+Cada idioma contiene inicio, aplicación, privacidad y términos. El selector conserva el documento y funciona sin JavaScript, cuentas, cookies ni redirecciones automáticas. Las URLs españolas e inglesas publicadas anteriormente se conservan. El francés mantiene `/fr/iventionday/confidentialite.html`.
 
-- Web del desarrollador: https://barrasil.github.io/
-- Aplicación: https://barrasil.github.io/iventionday/
-- Política: https://barrasil.github.io/iventionday/privacidad.html
-- Vendedores autorizados: https://barrasil.github.io/app-ads.txt
+## Mantenimiento
 
-Pon la política en AdMob → Privacidad y mensajes → Normativas europeas y en el
-campo de privacidad de la ficha de Google Play. Publica el mensaje de AdMob.
-Pon https://barrasil.github.io/ como sitio web del desarrollador en Google Play
-para que AdMob pueda encontrar el app-ads.txt de la raíz.
-Compara la línea de app-ads.txt con la que muestra tu AdMob antes de publicar.
+Al modificar las condiciones o el tratamiento de datos, sincronizar las 12 versiones; conservar nombres, domicilio, NIF, correo, proveedores, derechos obligatorios y alcance jurídico. Las nuevas traducciones usan traducción automática con revisión de estructura y cláusulas sensibles; requieren revisión lingüística y jurídica profesional antes de considerarlas traducciones certificadas.
 
-## Alcance y comprobaciones pendientes
+El catálogo, Analytics, imágenes, publicidad y funciones descritos corresponden al código revisado del proyecto Android. Esta web no modifica la aplicación ni Play Console. Siguen pendientes la revisión de base jurídica/preferencias de Analytics independientes de UMP y los derechos/créditos de imágenes sin metadatos.
 
-El texto describe el código revisado: catálogo local, imágenes externas, compartir,
-AdMob, UMP, Firebase Analytics, actualización del catálogo mediante ImageKit, tarjetas compartidas y lectura en voz alta; sin registro de usuarios, compras ni suscripciones. Revisa y actualiza la
-política si añades funciones o cambias proveedores. La denominación Barrasil Studio
-se identifica como nombre de desarrollador, no como sociedad.
+`app-ads.txt` y `.nojekyll` se conservan sin cambios. No requiere compilación ni dependencias para servir las páginas. `sitemap.xml` enumera las 48 páginas. La navegación y los enlaces de privacidad/términos se mantienen dentro del idioma seleccionado.
 
-Antes de publicar la app, confirma su público objetivo y las configuraciones de
-AdMob acordes con él. Esta política no decide por ti si la aplicación se dirige a
-menores. La sección Seguridad de los datos de Google Play debe completarse según el
-comportamiento real de la app y de sus SDKs, no marcando que no se recogen datos.
-La publicidad puede incluir proveedores adicionales elegidos en el formulario de
-AdMob; mantenlo alineado con la configuración. Los plazos legales o procedimientos
-internos que adoptes deben reflejarse en la política.
-
-Una vez la URL sea pública, añade un enlace permanente a ella dentro de la app;
-«Opciones de privacidad» gestiona consentimiento y no sustituye ese enlace.
-El sitio se publicó y se verificó mediante HTTP sin autenticación el 31 de octubre de 2026.
-
-## Fuentes
-
-- https://support.google.com/googleplay/android-developer/answer/10144311?hl=es
-- https://developers.google.com/admob/android/privacy/play-data-disclosure
-- https://developers.google.com/admob/android/privacy
-- https://developers.google.com/admob/android/app-ads
-- https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
-
-No requiere compilación, JavaScript, fuentes remotas ni instalación de dependencias.
-
-## Versión en inglés
-
-- Web: https://barrasil.github.io/en/
-- Aplicación: https://barrasil.github.io/en/iventionday/
-- Política: https://barrasil.github.io/en/iventionday/privacy.html
-
-Cada página incluye un enlace a su equivalente en el otro idioma. Las URLs originales
-en español y app-ads.txt se conservan. No hay redirección automática de idioma.
-La versión inglesa traduce la política española sin cambiar su alcance ni su fecha
-de revisión. Al actualizar la política, mantén ambas versiones sincronizadas.
-
-
-## Términos del Servicio
-
-- Español: https://barrasil.github.io/iventionday/terminos.html
-- Inglés: https://barrasil.github.io/en/iventionday/terms.html
-- Revisión: 5 de noviembre de 2026. Incluye identidad de persona física, gratuidad con publicidad, contenidos de terceros y derechos imperativos del consumidor.
-- Comprobar enlaces y acceso HTTPS sin autenticación después del despliegue.
-- Pendiente de revisión: base jurídica y preferencias de Analytics separadas de UMP; procedencia y licencias de imágenes sin metadatos en el catálogo. Los términos no subsanan estas cuestiones por sí solos.
+Actualización multilingüe: 7 de noviembre de 2026.
